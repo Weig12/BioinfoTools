@@ -8,7 +8,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 
 ## Cancer experts
 - Stephen B. Baylin, MD, Johns Hopkins,   
-  Expertise: epigenetics in cancer  
+  Epigenetic Determinants of Cancer https://pmc.ncbi.nlm.nih.gov/articles/PMC5008069/    
   https://profiles.hopkinsmedicine.org/provider/stephen-b-baylin/2777062
 
 
