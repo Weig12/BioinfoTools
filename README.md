@@ -14,3 +14,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://profiles.hopkinsmedicine.org/provider/stephen-b-baylin/2777062
 
 
+## Cancer papers
+- Sex and smoking bias in the selection of somatic mutations in human bladder
+  https://www.nature.com/articles/s41586-025-09521-x
+  
