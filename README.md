@@ -8,7 +8,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 
 ## Cancer experts
 - Stephen B. Baylin, MD, Johns Hopkins and Van Andel Institute   
-  Epigenetic Determinants of Cancer https://pmc.ncbi.nlm.nih.gov/articles/PMC5008069/ PMID: 27194046
+  Epigenetic Determinants of Cancer https://pmc.ncbi.nlm.nih.gov/articles/PMC5008069/ PMID: 27194046  
   A decade of exploring the cancer epigenome — biological and translational implications
   https://pmc.ncbi.nlm.nih.gov/articles/PMC3307543/ PMID: 21941284
   https://profiles.hopkinsmedicine.org/provider/stephen-b-baylin/2777062
