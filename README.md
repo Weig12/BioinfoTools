@@ -13,6 +13,10 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://pmc.ncbi.nlm.nih.gov/articles/PMC3307543/ PMID: 21941284  
   https://profiles.hopkinsmedicine.org/provider/stephen-b-baylin/2777062
 
+- Susan Bullman
+  Microbiome in CRC
+  A distinct Fusobacterium nucleatum clade dominates the colorectal cancer niche  
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11006615/ PMID: 38509359  
 
 ## Cancer papers
 - Sex and smoking bias in the selection of somatic mutations in human bladder
