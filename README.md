@@ -29,3 +29,9 @@ https://docs.google.com/document/d/1NxHgmBuGUO5FfvqIVrAyguDPGl_NNS4XNpEEcNMK4JE/
   https://www.youtube.com/watch?v=bFNgVwlFyxk
 - Building applications with GitHub Copilot agent mode https://www.youtube.com/watch?v=XnC6cF1v5OY
 - 
+
+## Databases
+- Efficient and accurate search in petabase-scale sequence repositories
+  https://www.nature.com/articles/s41586-025-09603-w
+- MetaGraph https://metagraph.ethz.ch/
+- 
