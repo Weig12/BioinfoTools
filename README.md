@@ -24,4 +24,4 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   
 ## AI-assisted coding
 Building applications with GitHub Copilot agent mode https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode/   
-https://docs.google.com/document/d/1NxHgmBuGUO5FfvqIVrAyguDPGl_NNS4XNpEEcNMK4JE/edit?tab=t.0   
+https://docs.google.com/document/d/1NxHgmBuGUO5FfvqIVrAyguDPGl_NNS4XNpEEcNMK4JE/edit?tab=t.0    
