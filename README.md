@@ -33,5 +33,6 @@ https://docs.google.com/document/d/1NxHgmBuGUO5FfvqIVrAyguDPGl_NNS4XNpEEcNMK4JE/
 ## Databases
 - Efficient and accurate search in petabase-scale sequence repositories
   https://www.nature.com/articles/s41586-025-09603-w
-- MetaGraph https://metagraph.ethz.ch/
+- MetaGraph https://metagraph.ethz.ch/  
+- MSK-CHORD https://github.com/clinical-data-mining https://pmc.ncbi.nlm.nih.gov/articles/PMC11655358/  
 - 
