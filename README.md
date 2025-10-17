@@ -1,10 +1,12 @@
 # BioinfoTools
 A list of bioinformatics tools
 
-## DMR analysis
+## DMR or read-level analysis
 - DMRseq R package - https://www.bioconductor.org/packages/release/bioc/html/dmrseq.html  
-vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq/inst/doc/dmrseq.html   
-
+vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq/inst/doc/dmrseq.html
+- mHapBrowser: a comprehensive database for visualization and analysis of DNA methylation haplotypes
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC10767976/
+-
 
 ## Cancer experts
 - Stephen B. Baylin, MD, Johns Hopkins and Van Andel Institute   
