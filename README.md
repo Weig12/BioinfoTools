@@ -26,6 +26,10 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - Cologuard trial 2014: Multitarget Stool DNA Testing for Colorectal-Cancer Screening
   https://www.nejm.org/doi/full/10.1056/NEJMoa1311194
 - 
+
+## Modeling
+- MTLR: Multi-Task Logistic Regression models  
+  https://square.github.io/pysurvival/models/mtlr_theory.html
   
 ## AI-assisted coding
 - Building applications with GitHub Copilot agent mode https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode/   
