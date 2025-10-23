@@ -6,6 +6,8 @@ A list of bioinformatics tools
 vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq/inst/doc/dmrseq.html
 - mHapBrowser: a comprehensive database for visualization and analysis of DNA methylation haplotypes
   https://pmc.ncbi.nlm.nih.gov/articles/PMC10767976/
+- MethylBERT enables read-level DNA methylation pattern identification and tumour deconvolution using a Transformer-based model
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11742067/ PMID: 39824848
 -
 
 ## Cancer experts
