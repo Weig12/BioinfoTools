@@ -10,6 +10,11 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11742067/ PMID: 39824848
 -
 
+## Microbiome
+- HUMAnN - HUMAnN is the next generation of HUMAnN (HMP Unified Metabolic Analysis Network). Pathway analysis.
+  https://github.com/biobakery/humann
+- Sourmash, Lefse, Maaslin,  
+
 ## Cancer experts
 - Stephen B. Baylin, MD, Johns Hopkins and Van Andel Institute   
   Epigenetic Determinants of Cancer https://pmc.ncbi.nlm.nih.gov/articles/PMC5008069/ PMID: 27194046  
