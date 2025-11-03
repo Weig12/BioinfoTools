@@ -45,6 +45,11 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://pubmed.ncbi.nlm.nih.gov/40912950/
 - Late fusion: Machine-Learning-Based Late Fusion on Multi-Omics and Multi-Scale Data for Non-Small-Cell Lung Cancer Diagnosis
   https://pmc.ncbi.nlm.nih.gov/articles/PMC9025878/ & https://github.com/pacocp/multiomic-fusion-NSCLC
+- Synthetic data production for biomedical research https://pmc.ncbi.nlm.nih.gov/articles/PMC12066231/
+- Synthetic data generation methods in healthcare: A review on open-source tools and methods
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11301073/
+- Precious2GPT: the combination of multiomics pretrained transformer and conditional diffusion for artificial multi-omics multi-species multi-tissue sample generation
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11310469/
 - 
   
 ## AI-assisted coding
