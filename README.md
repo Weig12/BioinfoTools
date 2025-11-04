@@ -57,8 +57,9 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11301073/ 2024 https://github.com/waldemar93/synthetic_data_pipeline/tree/main  
 - Mimicking clinical trials with synthetic acute myeloid leukemia patients using generative artificial intelligence
   https://pubmed.ncbi.nlm.nih.gov/38509224/ 2024 https://github.com/waldemar93/synthetic_data_pipeline/tree/main
-  Synthetic multimodal data at https://zenodo.org/records/8334265 .  1606 x 2 synthetic patients data
-- 
+  Synthetic multimodal data at https://zenodo.org/records/8334265 .  1606 x 2 synthetic patients data  
+- Can synthetic data be a proxy for real clinical trial data? A validation study?  CRC synthetic data
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC8055130/ Yr2021
   
 ## AI-assisted coding
 - Building applications with GitHub Copilot agent mode https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode/   
