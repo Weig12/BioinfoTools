@@ -13,7 +13,10 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 ## Microbiome
 - HUMAnN - HUMAnN is the next generation of HUMAnN (HMP Unified Metabolic Analysis Network). Pathway analysis.
   https://github.com/biobakery/humann
-- Sourmash, Lefse, Maaslin,  
+- Sourmash, Lefse, Maaslin,
+- Meta-Analysis and Validation of a Colorectal Cancer Risk Prediction Model Using Deep Sequenced Fecal Metagenomes
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC9454621/
+- 
 
 ## Cancer experts
 - Stephen B. Baylin, MD, Johns Hopkins and Van Andel Institute   
