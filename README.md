@@ -55,6 +55,8 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11310469/
 - Synthetic data generation methods in healthcare: A review on open-source tools and methods
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11301073/ 2024 https://github.com/waldemar93/synthetic_data_pipeline/tree/main  
+- Mimicking clinical trials with synthetic acute myeloid leukemia patients using generative artificial intelligence
+  https://pubmed.ncbi.nlm.nih.gov/38509224/ 2024 https://github.com/waldemar93/synthetic_data_pipeline/tree/main
 - 
   
 ## AI-assisted coding
