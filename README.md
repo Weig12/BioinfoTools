@@ -38,6 +38,8 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - Integrating Omics Data and AI for Cancer Diagnosis and Prognosis https://pmc.ncbi.nlm.nih.gov/articles/PMC11240413/
 - PRISM (PRognostic marker Identification and Survival Modelling through Multi-omics Integration)
   https://pmc.ncbi.nlm.nih.gov/articles/PMC12540658/
+- Cancer Research Data Commons https://datacommons.cancer.gov/explore/datasets
+  Genetics and Epidemiology of Colorectal Cancer Consortium
 - 
 
 ## Modeling
