@@ -35,6 +35,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://www.nature.com/articles/s41586-025-09521-x
 - Cologuard trial 2014: Multitarget Stool DNA Testing for Colorectal-Cancer Screening
   https://www.nejm.org/doi/full/10.1056/NEJMoa1311194
+- Integrating Omics Data and AI for Cancer Diagnosis and Prognosis https://pmc.ncbi.nlm.nih.gov/articles/PMC11240413/
 - 
 
 ## Modeling
