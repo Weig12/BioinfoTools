@@ -62,7 +62,8 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://pmc.ncbi.nlm.nih.gov/articles/PMC8055130/ Yr2021. Source data at https://data.projectdatasphere.org/  
   Suppl. at https://pmc.ncbi.nlm.nih.gov/articles/instance/8055130/bin/bmjopen-2020-043497supp001.pdf
 - Synthetic Data Improve Survival Status Prediction Models in Early-Onset Colorectal Cancer https://pmc.ncbi.nlm.nih.gov/articles/PMC10830088/
-- 
+- Advancing breast cancer prediction: Comparative analysis of **ML models** and deep learning-based multi-model ensembles on original and synthetic datasets
+  https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0326221 Yr2025
   
 ## AI-assisted coding
 - Building applications with GitHub Copilot agent mode https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode/   
