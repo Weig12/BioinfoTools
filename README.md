@@ -36,6 +36,8 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - Cologuard trial 2014: Multitarget Stool DNA Testing for Colorectal-Cancer Screening
   https://www.nejm.org/doi/full/10.1056/NEJMoa1311194
 - Integrating Omics Data and AI for Cancer Diagnosis and Prognosis https://pmc.ncbi.nlm.nih.gov/articles/PMC11240413/
+- PRISM (PRognostic marker Identification and Survival Modelling through Multi-omics Integration)
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC12540658/
 - 
 
 ## Modeling
