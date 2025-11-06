@@ -50,6 +50,12 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - Biological Age Acceleration and Colonic Polyps in Persons Under Age 50 (array) https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE282666
 - Methylome, hydroxymethylome, and integrative transcriptome profiling in human CRC tissue and paired normal tissues  
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87096 meDIP-seq RNA-seq
+- Simultaneous methylation-level assessment of hundreds of CpG sites by targeted bisulfite PCR sequencing (TBPseq)
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98921 46 cancer cell lines including CRC cell lines
+- Active BRAF-V600E is the key player in generation of a sessile serrated polyp-specific DNA methylation profile (WGBS data set)  
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110537 Three samples  
+- Active BRAF-V600E is the key player in generation of a sessile serrated polyp-specific DNA methylation profile (Exome-seq data set)
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110535 Twelve samples  
 - 
 
 ## Modeling
