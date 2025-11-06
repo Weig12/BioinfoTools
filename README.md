@@ -56,7 +56,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110537 3 samples  
 - Active BRAF-V600E is the key player in generation of a sessile serrated polyp-specific DNA methylation profile (Exome-seq data set)
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110535 12 samples  
-- DNA methylation analysisof KRAS mutated colorectal tumors and adjacent tissues from cancer patinets and KRAS mutated Aberrant Crypt Foci and matching normal crypts from healthy individuals by using RRBS
+- DNA methylation analysisof KRAS mutated colorectal tumors and adjacent tissues from cancer patinets and KRAS mutated Aberrant Crypt Foci and matching normal crypts from healthy individuals by using RRBS  
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95654  40 samples
 - 
 
