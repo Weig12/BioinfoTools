@@ -16,6 +16,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - Sourmash, Lefse, Maaslin,
 - Meta-Analysis and Validation of a Colorectal Cancer Risk Prediction Model Using Deep Sequenced Fecal Metagenomes
   https://pmc.ncbi.nlm.nih.gov/articles/PMC9454621/ Yr2022, 32 species  
+- QIITA - https://github.com/qiita-spots/qiita
 - 
 
 ## Cancer experts
