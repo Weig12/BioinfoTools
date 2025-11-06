@@ -44,6 +44,10 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - Genomic Data Commons https://www.cancergenomicscloud.org/datasets
 - 
 
+## CRC samples
+- DNA Methylation Profiling at Base-Pair Resolution Reveals Unique Epigenetic Features of Early-Onset Colorectal Cancer in Underrepresented Populations  
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE284325  
+
 ## Modeling
 - MTLR: Multi-Task Logistic Regression models  
   https://square.github.io/pysurvival/models/mtlr_theory.html
