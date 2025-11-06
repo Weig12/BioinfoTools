@@ -58,6 +58,8 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110535 12 samples  
 - DNA methylation analysisof KRAS mutated colorectal tumors and adjacent tissues from cancer patinets and KRAS mutated Aberrant Crypt Foci and matching normal crypts from healthy individuals by using RRBS  
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95654  40 samples
+- Comparative genome-wide DNA methylation analysis of colorectal tumor and matched normal tissues
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39068 MethylCap-seq yr2012
 - 
 
 ## Modeling
