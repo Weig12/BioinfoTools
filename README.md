@@ -55,14 +55,14 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://pubmed.ncbi.nlm.nih.gov/40912950/
 - Late fusion: Machine-Learning-Based **Late Fusion** on Multi-Omics and Multi-Scale Data for Non-Small-Cell Lung Cancer Diagnosis
   https://pmc.ncbi.nlm.nih.gov/articles/PMC9025878/ & https://github.com/pacocp/multiomic-fusion-NSCLC
-- Synthetic data production for biomedical research https://pmc.ncbi.nlm.nih.gov/articles/PMC12066231/
+- **Synthetic data production** for biomedical research https://pmc.ncbi.nlm.nih.gov/articles/PMC12066231/
 - Synthetic data generation methods in healthcare: A review on open-source tools and methods
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11301073/
 - Precious2GPT: the combination of multiomics pretrained transformer and conditional diffusion for artificial multi-omics multi-species multi-tissue sample generation
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11310469/
-- Synthetic data generation methods in healthcare: A review on open-source tools and methods
+- Synthetic data generation methods in healthcare: A review on open-source **tools and methods**
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11301073/ 2024 https://github.com/waldemar93/synthetic_data_pipeline/tree/main  
-- Mimicking clinical trials with synthetic acute myeloid leukemia patients using generative artificial intelligence
+- Mimicking clinical trials with **synthetic acute myeloid leukemia patients** using generative artificial intelligence
   https://pubmed.ncbi.nlm.nih.gov/38509224/ 2024 https://github.com/waldemar93/synthetic_data_pipeline/tree/main
   Synthetic multimodal data at https://zenodo.org/records/8334265 .  1606 x 2 synthetic patients data  
 - Can **synthetic data** be a proxy for real clinical trial data? A validation study?  **CRC synthetic data on only clinical, metadata**  
