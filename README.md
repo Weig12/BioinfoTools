@@ -46,7 +46,9 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 
 ## CRC samples
 - DNA Methylation Profiling at Base-Pair Resolution Reveals Unique Epigenetic Features of Early-Onset Colorectal Cancer in Underrepresented Populations  
-  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE284325  
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE284325
+- Biological Age Acceleration and Colonic Polyps in Persons Under Age 50 (array) https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE282666
+- 
 
 ## Modeling
 - MTLR: Multi-Task Logistic Regression models  
