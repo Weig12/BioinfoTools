@@ -60,6 +60,8 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95654  40 samples
 - Comparative genome-wide DNA methylation analysis of colorectal tumor and matched normal tissues
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39068 MethylCap-seq yr2012
+- Identification of candidate predisposing copy number variants in familial and early-onset colorectal cancer patients
+  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE13429 SNP arrays  
 - 
 
 ## Modeling
