@@ -27,7 +27,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   df = pd.read_csv("/kaggle/input/colorectal-cancer-risk-and-survival-data/colorectal_cancer_prediction.csv")
   https://www.researchgate.net/publication/391140390_Colorectal_Cancer_Prediction_Based_on_Random_Forest_Approach  
 - CRC global data Kaggle https://www.kaggle.com/datasets/ankushpanday2/colorectal-cancer-global-dataset-and-predictions (likely synthetic data)  
-  df = pd.read_csv("/kaggle/input/colorectal-cancer-global-dataset-and-predictions/colorectal_cancer_dataset.csv")  
+  df = pd.read_csv("/kaggle/input/colorectal-cancer-global-dataset-and-predictions/colorectal_cancer_dataset.csv")  167,497 rows, 28 columns  
 - Colorectal datasets https://cdas.cancer.gov/datasets/plco/22/
 - 
 
