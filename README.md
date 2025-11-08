@@ -82,6 +82,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - 
 
 ## Modeling
+- AutoML: https://docs.google.com/document/d/1CEodS17vExYBMsgueVGy6Z0RnR-IGJJdRg3ZWWtV3us/edit?tab=t.0  
 - MTLR: Multi-Task Logistic Regression models  
   https://square.github.io/pysurvival/models/mtlr_theory.html
 - MTLR with survival modeling
