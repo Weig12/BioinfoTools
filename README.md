@@ -19,6 +19,13 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - QIITA - https://github.com/qiita-spots/qiita and QIIME 2.  
 - 
 
+## Synthetic Data tools
+- Synthetic Data Vault https://github.com/sdv-dev/SDV
+- A novel and fully automated platform for synthetic tabular data generation and validation **STNG MILO**
+  https://pubmed.ncbi.nlm.nih.gov/39375404/
+- 
+
+
 ## Cancer experts
 - Stephen B. Baylin, MD, Johns Hopkins and Van Andel Institute   
   Epigenetic Determinants of Cancer https://pmc.ncbi.nlm.nih.gov/articles/PMC5008069/ PMID: 27194046  
