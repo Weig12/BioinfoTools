@@ -33,8 +33,8 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - https://www.cbioportal.org/datasets  
   Cercek 2020: https://www.cbioportal.org/study/summary?id=crc_eo_2020 1516 samples: Germline, somatic.  
   https://pmc.ncbi.nlm.nih.gov/articles/PMC8634406/   
-- https://www.aacr.org/professionals/research/aacr-project-genie/bpc/crc-public-release/ BPC CRC v2.0-public, genomic and phenomic data
-  https://www.synapse.org/Synapse:syn27056172/wiki/616601 https://www.aacr.org/wp-content/uploads/2023/01/2022_CRC-2.0-Public_graphics.pdf  
+- https://www.aacr.org/professionals/research/aacr-project-genie/bpc/crc-public-release/ BPC CRC v2.0-public, genomic and phenomic data  
+  https://www.synapse.org/Synapse:syn27056172/wiki/616601 and https://www.aacr.org/wp-content/uploads/2023/01/2022_CRC-2.0-Public_graphics.pdf  
   https://www.aacr.org/wp-content/uploads/2022/11/GENIE-BPC-CRC-v2.0-public-Analytic-Data-Guide-v2.pdf  
 - https://docs.google.com/document/d/1E07QJFT-bwOTy5Vfv8H9sKe1saNET2KmAAGISVpFJuc/edit?tab=t.0
 - CRC synthetic data 1000 samples and 15 columns: https://www.kaggle.com/code/fot66hg76/crc-risk-classifier/input  
