@@ -21,6 +21,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 
 ## Synthetic Data tools
 - Synthetic Data Vault https://github.com/sdv-dev/SDV
+- Milo-ML https://app.milo.ai/home/b889e113-df65-45e7-b563-8f2a919d1419  
 - A novel and fully automated platform for synthetic tabular data generation and validation **STNG MILO**
   https://pubmed.ncbi.nlm.nih.gov/39375404/
 - CRC data Kaggle https://www.kaggle.com/code/shuto210/eda-colorectal-cancer-risk/input  89945 samples, likely synthetic data  
