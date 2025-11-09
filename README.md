@@ -23,7 +23,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - Synthetic Data Vault https://github.com/sdv-dev/SDV
 - A novel and fully automated platform for synthetic tabular data generation and validation **STNG MILO**
   https://pubmed.ncbi.nlm.nih.gov/39375404/
-- CRC data Kaggle https://www.kaggle.com/code/shuto210/eda-colorectal-cancer-risk/input  89945 samples  
+- CRC data Kaggle https://www.kaggle.com/code/shuto210/eda-colorectal-cancer-risk/input  89945 samples, likely synthetic data  
   df = pd.read_csv("/kaggle/input/colorectal-cancer-risk-and-survival-data/colorectal_cancer_prediction.csv")
   https://www.researchgate.net/publication/391140390_Colorectal_Cancer_Prediction_Based_on_Random_Forest_Approach  
 - CRC global data Kaggle https://www.kaggle.com/datasets/ankushpanday2/colorectal-cancer-global-dataset-and-predictions (likely synthetic data)  
