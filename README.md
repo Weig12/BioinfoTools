@@ -29,7 +29,9 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - CRC global data Kaggle https://www.kaggle.com/datasets/ankushpanday2/colorectal-cancer-global-dataset-and-predictions (likely synthetic data)  
   df = pd.read_csv("/kaggle/input/colorectal-cancer-global-dataset-and-predictions/colorectal_cancer_dataset.csv")  167,497 rows, 28 columns  
 - Colorectal datasets https://cdas.cancer.gov/datasets/plco/22/
-- https://www.cbioportal.org/datasets
+- https://www.cbioportal.org/datasets  
+  Cercek 2020: https://www.cbioportal.org/study/summary?id=crc_eo_2020 1516 samples: Germline, somatic.  
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC8634406/   
 - https://www.aacr.org/professionals/research/aacr-project-genie/bpc/crc-public-release/
 - https://docs.google.com/document/d/1E07QJFT-bwOTy5Vfv8H9sKe1saNET2KmAAGISVpFJuc/edit?tab=t.0
 - CRC synthetic data 1000 samples and 15 columns: https://www.kaggle.com/code/fot66hg76/crc-risk-classifier/input  
