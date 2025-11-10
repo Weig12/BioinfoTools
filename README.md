@@ -1,6 +1,10 @@
 # BioinfoTools
 A list of bioinformatics tools
 
+## AI in bioinfo
+- Conversational AI agent for precision oncology: AI-HOPE-WNT integrates clinical and genomic data to investigate WNT pathway dysregulation in colorectal cancer
+  https://pubmed.ncbi.nlm.nih.gov/40860720/  
+
 ## DMR or read-level analysis
 - DMRseq R package - https://www.bioconductor.org/packages/release/bioc/html/dmrseq.html  
 vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq/inst/doc/dmrseq.html
