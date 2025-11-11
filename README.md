@@ -12,7 +12,8 @@ A list of bioinformatics tools
   https://pubmed.ncbi.nlm.nih.gov/23159533/
 - CRC risk in SEER https://docs.google.com/document/d/1OtJ5tO8VW9SNnDrOCyjm79MnlVB6rY-BKATKmHih77c/edit?tab=t.0  
 - About the Colorectal Cancer Risk Assessment Calculator https://ccrisktool.cancer.gov/about.html
-- Cox proportional hazards model https://docs.google.com/document/d/1T9zZauLaAzsncaUUuusJYAdyce6X8AjYbwxYwmu7uLs/edit?tab=t.0
+- Cox proportional hazards model https://docs.google.com/document/d/1T9zZauLaAzsncaUUuusJYAdyce6X8AjYbwxYwmu7uLs/edit?tab=t.0  
+  https://docs.google.com/document/d/1lD9JAb80G5ZQ4O_oV3k2eHMFEf488VfkXLwhv1oaM6c/edit?tab=t.0
 - 
 
 ## DMR or read-level analysis
