@@ -106,6 +106,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - 
 
 ## Modeling
+- **SEERexplorer** for CRC incidence https://seer.cancer.gov/statistics-network/explorer/  
 - **SEERStat software** for calculating cancer incidence, survival, etc https://seer.cancer.gov/seerstat/download/  
 - Development and validation of risk prediction algorithms to estimate future risk of common cancers in men and women: prospective cohort study  
   https://bmjopen.bmj.com/content/5/3/e007825?cpetoc=&int_source=trendmd&int_medium=cpc&int_campaign=usage-042019  
