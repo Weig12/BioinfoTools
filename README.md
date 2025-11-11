@@ -3,7 +3,14 @@ A list of bioinformatics tools
 
 ## AI in bioinfo
 - Conversational AI agent for precision oncology: AI-HOPE-WNT integrates clinical and genomic data to investigate WNT pathway dysregulation in colorectal cancer
-  https://pubmed.ncbi.nlm.nih.gov/40860720/  
+  https://pubmed.ncbi.nlm.nih.gov/40860720/
+- Identifying patients with undetected colorectal cancer: an independent validation of QCancer (Colorectal)  2012
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC3394989/  
+- Development and validation of risk prediction algorithms to estimate future risk of common cancers in men and women: prospective cohort study  
+  https://pubmed.ncbi.nlm.nih.gov/25783428/  
+- Identifying patients with undetected gastro-oesophageal cancer in primary care: External validation of QCancer® (Gastro-Oesophageal) 2013  
+  https://pubmed.ncbi.nlm.nih.gov/23159533/
+- 
 
 ## DMR or read-level analysis
 - DMRseq R package - https://www.bioconductor.org/packages/release/bioc/html/dmrseq.html  
