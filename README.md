@@ -11,6 +11,7 @@ A list of bioinformatics tools
 - Identifying patients with undetected gastro-oesophageal cancer in primary care: External validation of QCancer® (Gastro-Oesophageal) 2013  
   https://pubmed.ncbi.nlm.nih.gov/23159533/
 - CRC risk in SEER https://docs.google.com/document/d/1OtJ5tO8VW9SNnDrOCyjm79MnlVB6rY-BKATKmHih77c/edit?tab=t.0  
+- About the Colorectal Cancer Risk Assessment Calculator https://ccrisktool.cancer.gov/about.html
 - 
 
 ## DMR or read-level analysis
