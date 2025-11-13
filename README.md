@@ -82,7 +82,9 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   Genetics and Epidemiology of Colorectal Cancer Consortium
 - https://www.kaggle.com/datasets/erdemtaha/cancer-data/code Kaggle cancer data df = pd.read_csv("/kaggle/input/cancer-data/Cancer_Data.csv")  
 - Genomic Data Commons https://www.cancergenomicscloud.org/datasets
-- 
+- **The evolutionary progression of cancers** (Gene expression control by methylation and DNA-derived functional RNAs) Dr. Jia shared  
+  https://www.academia.edu/2998-7741/1/2/10.20935/AcadOnco7415?email_action=download  
+-
 
 ## CRC samples
 - DNA Methylation Profiling at Base-Pair Resolution Reveals Unique Epigenetic Features of Early-Onset Colorectal Cancer in Underrepresented Populations  
