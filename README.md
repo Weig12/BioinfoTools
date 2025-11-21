@@ -161,4 +161,5 @@ https://docs.google.com/document/d/1NxHgmBuGUO5FfvqIVrAyguDPGl_NNS4XNpEEcNMK4JE/
 - Identification of cancer risk groups through multi-omics integration using autoencoder and tensor analysis
   https://www.nature.com/articles/s41598-024-59670-8?fromPaywallRec=false
 - Integrative analysis of multi-omics data for liquid biopsy https://www.nature.com/articles/s41416-022-02048-2?fromPaywallRec=false
+- cfOmics: a cell-free multi-Omics database for diseases https://academic.oup.com/nar/article/52/D1/D607/7283892
 - 
