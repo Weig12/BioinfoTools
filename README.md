@@ -21,7 +21,7 @@ A list of bioinformatics tools
 - DMRseq R package - https://www.bioconductor.org/packages/release/bioc/html/dmrseq.html  
 vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq/inst/doc/dmrseq.html
 - mHapBrowser: a comprehensive database for visualization and analysis of DNA methylation haplotypes
-  https://pmc.ncbi.nlm.nih.gov/articles/PMC10767976/
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC10767976/ and https://mhap.sibcb.ac.cn/   
 - MethylBERT enables read-level DNA methylation pattern identification and tumour deconvolution using a Transformer-based model
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11742067/ PMID: 39824848
 -
