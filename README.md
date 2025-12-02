@@ -163,3 +163,8 @@ https://docs.google.com/document/d/1NxHgmBuGUO5FfvqIVrAyguDPGl_NNS4XNpEEcNMK4JE/
 - Integrative analysis of multi-omics data for liquid biopsy https://www.nature.com/articles/s41416-022-02048-2?fromPaywallRec=false
 - cfOmics: a cell-free multi-Omics database for diseases https://academic.oup.com/nar/article/52/D1/D607/7283892
 - 
+
+## EPIC array v2 clocks
+- ENmix R package https://www.bioconductor.org/packages/release/bioc/vignettes/ENmix/inst/doc/ENmix.html  
+- methylclock R package (18 public clocks) https://www.bioconductor.org/packages/release/bioc/vignettes/methylclock/inst/doc/methylclock.html  
+- 
