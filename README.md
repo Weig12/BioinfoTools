@@ -20,9 +20,9 @@ A list of bioinformatics tools
 ## DMR or read-level analysis
 - DMRseq R package - https://www.bioconductor.org/packages/release/bioc/html/dmrseq.html  
 vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq/inst/doc/dmrseq.html
-- mHapBrowser: a comprehensive database for visualization and analysis of DNA methylation haplotypes
-  https://pmc.ncbi.nlm.nih.gov/articles/PMC10767976/ and https://mhap.sibcb.ac.cn/
-  https://github.com/yoyoong/mHapSuite and https://academic.oup.com/bioinformatics/article/37/24/4892/6305824?login=false
+- **mHapBrowser**: a comprehensive database for visualization and analysis of DNA methylation haplotypes
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC10767976/ and https://mhap.sibcb.ac.cn/  
+  https://github.com/yoyoong/mHapSuite and https://academic.oup.com/bioinformatics/article/37/24/4892/6305824?login=false  
   https://jiantaoshi.github.io/mHap/index.html  
 - MethylBERT enables read-level DNA methylation pattern identification and tumour deconvolution using a Transformer-based model
   https://pmc.ncbi.nlm.nih.gov/articles/PMC11742067/ PMID: 39824848
