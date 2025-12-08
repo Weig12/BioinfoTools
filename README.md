@@ -35,6 +35,8 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - Meta-Analysis and Validation of a Colorectal Cancer Risk Prediction Model Using Deep Sequenced Fecal Metagenomes
   https://pmc.ncbi.nlm.nih.gov/articles/PMC9454621/ Yr2022, 32 species  
 - QIITA - https://github.com/qiita-spots/qiita and QIIME 2.  
+- HumanMetagenomeDB: Genetic and Epigenetic Marker-Based DNA Test of Stool Is a Promising Approach for Colorectal Cancer Screening
+  https://academic.oup.com/nar/article/49/D1/D743/5998395 and https://web.app.ufz.de/hmgdb/
 - 
 
 ## Synthetic Data tools
