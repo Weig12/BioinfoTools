@@ -147,6 +147,11 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   A synthetic population of 5,005 was generated from a data set of 1,253 patients with 93 clinical features.   
 - Advancing breast cancer prediction: Comparative analysis of **ML models** and deep learning-based multi-model ensembles on original and synthetic datasets
   https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0326221 Yr2025
+- A new comprehensive colorectal cancer risk prediction model incorporating family history, personal characteristics, and environmental factors
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC7060114/
+- Development and validation of risk prediction algorithms to estimate future risk of common cancers in men and women: prospective cohort study
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC4368998/
+- 
   
 ## AI-assisted coding
 - Building applications with GitHub Copilot agent mode https://learn.microsoft.com/en-us/training/modules/github-copilot-agent-mode/   
