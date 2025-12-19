@@ -151,6 +151,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://pmc.ncbi.nlm.nih.gov/articles/PMC7060114/
 - Development and validation of risk prediction algorithms to estimate future risk of common cancers in men and women: prospective cohort study
   https://pmc.ncbi.nlm.nih.gov/articles/PMC4368998/
+- Prevalence and Penetrance of Major Genes and Polygenes for Colorectal Cancer https://pmc.ncbi.nlm.nih.gov/articles/PMC5336409/
 - 
   
 ## AI-assisted coding
