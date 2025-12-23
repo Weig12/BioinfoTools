@@ -91,6 +91,7 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
   https://www.academia.edu/2998-7741/1/2/10.20935/AcadOnco7415?email_action=download  
 - Genetics, Cytogenetics, and Epigenetics of Colorectal Cancer https://pmc.ncbi.nlm.nih.gov/articles/PMC3070260/
 - A systematic review and meta-analysis of **familial colorectal cancer risk** https://pubmed.ncbi.nlm.nih.gov/11693338/ Relative Risk 
+- Clinical Application of Multigene Panels: Challenges of Next-Generation Counseling and Cancer Risk Management https://pubmed.ncbi.nlm.nih.gov/26484312/
 - 
 
 ## CRC samples
