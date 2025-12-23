@@ -89,7 +89,9 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - Genomic Data Commons https://www.cancergenomicscloud.org/datasets
 - **The evolutionary progression of cancers** (Gene expression control by methylation and DNA-derived functional RNAs) Dr. Jia shared  
   https://www.academia.edu/2998-7741/1/2/10.20935/AcadOnco7415?email_action=download  
--
+- Genetics, Cytogenetics, and Epigenetics of Colorectal Cancer https://pmc.ncbi.nlm.nih.gov/articles/PMC3070260/
+- A systematic review and meta-analysis of **familial colorectal cancer risk** https://pubmed.ncbi.nlm.nih.gov/11693338/ Relative Risk 
+- 
 
 ## CRC samples
 - DNA Methylation Profiling at Base-Pair Resolution Reveals Unique Epigenetic Features of Early-Onset Colorectal Cancer in Underrepresented Populations  
