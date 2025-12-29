@@ -1,6 +1,9 @@
 # BioinfoTools
 A list of bioinformatics tools
 
+## Ducklake and Zymo Database
+- https://ducklake.select/ Ducklake consists of a catalog (PostgreSQL) of parquet files an a storage of parquet files. 
+
 ## AI in bioinfo
 - Conversational AI agent for precision oncology: AI-HOPE-WNT integrates clinical and genomic data to investigate WNT pathway dysregulation in colorectal cancer
   https://pubmed.ncbi.nlm.nih.gov/40860720/
