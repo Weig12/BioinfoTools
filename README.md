@@ -117,7 +117,9 @@ vignettes at https://www.bioconductor.org/packages/release/bioc/vignettes/dmrseq
 - Identification of candidate predisposing copy number variants in familial and early-onset colorectal cancer patients
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE13429 SNP arrays  
 - SEER CRC stats https://seer.cancer.gov/statfacts/html/colorect.html
-- 
+- Beyond colonoscopy, faecal DNA mutation screening provides a potential and viable path to early colorectal cancer detection Yr2025  
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC12789060/  
+-
 
 ## Modeling
 - **SEERexplorer** for CRC incidence https://seer.cancer.gov/statistics-network/explorer/  
