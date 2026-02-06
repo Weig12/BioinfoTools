@@ -18,6 +18,8 @@ A list of bioinformatics tools
 - Cox proportional hazards model https://docs.google.com/document/d/1T9zZauLaAzsncaUUuusJYAdyce6X8AjYbwxYwmu7uLs/edit?tab=t.0  
   https://docs.google.com/document/d/1lD9JAb80G5ZQ4O_oV3k2eHMFEf488VfkXLwhv1oaM6c/edit?tab=t.0
 - **CRC 10-yr risk** https://qcancer.org/10yr/male/index.php  
+- List of awesome code, papers, and resources for AI/deep learning/machine learning/neural networks applied to oncology.
+  https://github.com/cbailes/awesome-ai-cancer/blob/master/README.md
 - 
 
 ## DMR or read-level analysis
